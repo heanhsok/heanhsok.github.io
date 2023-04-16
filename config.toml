@@ -1,0 +1,4 @@
+baseURL = 'https://heanh.com/'
+languageCode = 'en-us'
+title = 'heanh'
+theme = 'paper'
